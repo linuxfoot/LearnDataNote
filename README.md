@@ -7,7 +7,7 @@ A linux fan
 Integrates DevOps and agile methodologies, enhancing operational safety and efficiency by reducing the technical divide between maintenance and development teams
 
 *   🌍  I'm based in Beijing
-*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/harry-li-6439b0158/)
+*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/harry-l-6439b0158/)
 *   ✉️  You can contact me at [harry\_lee2683@outlook.com](mailto:harry_lee2683@outlook.com)
 *   🚀  I'm currently working on [Free Lancer](http://ff)
 *   🧠  I'm learning Openshift
